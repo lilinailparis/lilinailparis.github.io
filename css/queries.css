@@ -176,6 +176,9 @@ body {
 .aboutitem_img img {
 	width: 100%;
 }
+.aboutitem_text p {
+	display: none;
+}
 #services {
 	padding-top: 30px;
 }
@@ -273,8 +276,20 @@ body {
 .copy {
 	font-size: 14px;
 }
-.subtariff {
+.tariff {
 	width: 100%;
-	height: 220px;
 }
+.tariff1 {
+	margin-left: 0;
+	margin-right: 20px;
+	width: 100%
+}
+.tariff2 {
+	margin-right: 20px;
+	width: 100%
+}
+.tariff3 {
+	display: block;
+	margin: 0 auto;
+} 
 }

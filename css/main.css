@@ -155,6 +155,8 @@ h1 {
 .aboutus p {
 	margin-left: 20px;
 	margin-right: 20px;
+	width: 600px;
+	line-height: 26px;
 }
 .services {
 	background: #faf3f1;

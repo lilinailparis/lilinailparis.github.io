@@ -179,6 +179,13 @@ body {
 .aboutitem_text p {
 	display: none;
 }
+.aboutustitle h4 {
+	font-size: 28px;
+}
+.aboutus p {
+	width: 90%;
+	line-height: 24px;
+}
 #services {
 	padding-top: 30px;
 }

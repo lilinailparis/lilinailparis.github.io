@@ -126,7 +126,7 @@ li:hover ul {
 .home_img {
 	width: 20px;
 	height: 20px;
-	margin: -5px 10px -3px 80px;
+	margin: -5px 5px -3px 120px;
 }
 h1 {
 	color: #303030;
@@ -195,7 +195,7 @@ h1 {
 	display: -webkit-flex;
 	flex-direction: row;
 	justify-content: space-between;
-	margin-top: 60px;
+	margin-top: 80px;
 }
 .services_manictxt {
 	width: 380px;

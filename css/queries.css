@@ -31,9 +31,7 @@
 @media only screen and (max-width: 768px)
  {
 /* стили */
-body {
-	font-family: century_gothic;
-}
+
 .container {
 	width: 100%;
 }
@@ -214,6 +212,8 @@ body {
 /* Services */
 #services {
 	padding-top: 30px;
+	padding-left: 5px;
+	padding-right: 5px;
 }
 #services p {
 	display: none;
